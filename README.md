@@ -17,7 +17,7 @@
 ```bash
 train_rgb_camo_dinat.py
 ```
-## polyp_segmentation
+## poly_seg training
 ```bash
 train_rgb_polyp_dinat.py
 ```
