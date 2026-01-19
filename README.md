@@ -7,4 +7,4 @@
 ![MaDiCa](https://github.com/user-attachments/assets/6ceed585-bb60-4bfe-9f9b-012c75cabec2)
 
 ## Result
-논문 발표후 추가 예정
+<img width="4737" height="2454" alt="image1" src="https://github.com/user-attachments/assets/20dd1820-712e-4cfc-93ef-13a7882ce5ca" />
